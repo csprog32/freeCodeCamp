@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Home </title>
+    </head>
+    <body>
+    	<div id="top">
+        <div style="text-align:centre">
+        <div style="font-size:36px;font-weight:bold;color:blue">
+            Wycliffe Juma
+        </div>
+        <div id="middle">
+        <div style="text-align:centre">
+        <div style="font-size:24px;font-weight:bold;color:green">
+            Welcome to My Home Page
+        </div>
+        <div id="bottom">
+        <div style="text-align:centre">
+        <div style="font-size:12px;font-weight:bold;color:red">
+            This Is Computer Science
+        </div>
